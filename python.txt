@@ -1,4 +1,4 @@
-11.02 12:19 PM
+
 
 
 def checkEmpty(input, pattern):
